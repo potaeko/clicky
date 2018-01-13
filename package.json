@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://potaeko.github.io/clicky",
+  "homepage": "https://potaeko.github.io/clicky/.",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
