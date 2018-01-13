@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./images/bumblebee.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 2,
+    "image": "./images/frenzy.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 3,
+    "image": "./images/ironhide.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 4,
+    "image": "./images/jazz.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 5,
+    "image": "./images/megatron.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 6,
+    "image": "./images/optimus.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 7,
+    "image": "./images/prowl.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 8,
+    "image": "./images/ratchett.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 9,
+    "image": "./images/rumble.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 10,
+    "image": "./images/shockwave.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 11,
+    "image": "./images/soundwave.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 12,
+    "image": "./images/starscream.jpg",
+    "clicked": "false"
+  }
+]

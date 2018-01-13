@@ -1,0 +1,51 @@
+#root, body {
+  background-color: black;
+}
+
+
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.top-row {
+  margin-top: 10px;
+}
+
+#score {
+  text-align: center;
+
+}
+
+.well, h4 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+#score, #high-score {
+  margin-top: 10px;
+}
+
+.numberColumn {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  color: white;
+  background-color: white;
+  margin-top: 20px;
+  max-width: 200px;
+  font-size: 1.5vmax;
+}
+
+.numberColumn {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  color: white;
+  background-color: white;
+  margin-bottom: 10px;
+  max-width: 200px;
+  font-size: 1.5vmax;
+}
