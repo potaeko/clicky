@@ -5,9 +5,12 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
+    "macaddress": "^0.2.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "^3.1.1"
+    "react-scripts": "^3.1.1",
+    "typescript": "^3.5.3",
+    "typescript-eslint": "0.0.1-alpha.0"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -16,5 +19,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-plugin-react": "^7.14.3"
   }
 }
